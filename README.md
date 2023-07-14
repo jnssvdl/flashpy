@@ -36,8 +36,10 @@ To run the program and modify the source code, follow these steps:
    - Download the font from [Google Fonts](https://fonts.google.com/specimen/Montserrat) by visiting the provided link.
    - Click on the "Download family" button.
    - Once downloaded, unzip the file.
-   - Locate the `Montserrat-VariableFont_wght` file and double-click it.
-   - Click the "Install" button to install the font on your device.
+   - Locate the `Montserrat-VariableFont_wght` and `Montserrat-Italic-VariableFont_wght` files and double-click on each.
+   - Click the "Install" button for both files to install the font on your device.
    - Congratulations! You now have the Montserrat font installed.
 
-Now you are ready to run the program and explore its features. Enjoy!
+Now you are ready to run the program and modify the source code. If you prefer to only run the program, you can download the main application with the .exe file and run it directly. However, it is still recommended to download the Montserrat font to fully experience the intended theme.
+
+## Example Program
