@@ -40,6 +40,10 @@ To run the program and modify the source code, follow these steps:
    - Click the "Install" button for both files to install the font on your device.
    - Congratulations! You now have the Montserrat font installed.
 
-Now you are ready to run the program and modify the source code. If you prefer to only run the program, you can download the main application with the .exe file and run it directly. However, it is still recommended to download the Montserrat font to fully experience the intended theme.
+## Getting Started
 
-## Example Program
+You're now ready to run the program and explore the source code. We highly recommend downloading and installing the Montserrat font to fully experience the intended theme of the application. The font can be downloaded from [Google Fonts](https://fonts.google.com/specimen/Montserrat).
+
+## Important Note
+
+Please keep in mind that this application is currently under development, which means that changes to the source code may occur frequently. As a result, the documentation provided in this repository may become antiquated. We appreciate your understanding and encourage you to refer to the latest version of the source code for the most up-to-date information.
